@@ -1,6 +1,10 @@
 # gdfile
 ### Google Drive download file
 
+**Dependeces:**
+
+> pip install beautifulsoup4 requests optparse-pretty
+
 **Use:**
 
 > gdfile.py -u URL_GOOGLE_DRIVE -o OUTPUT_FILENAME
