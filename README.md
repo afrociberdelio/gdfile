@@ -5,7 +5,7 @@
 
 **Dependecies:**
 
-> pip install beautifulsoup4 requests optparse-pretty
+> pip install -r requirements.txt
 
 **Use:**
 
