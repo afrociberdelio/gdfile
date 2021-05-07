@@ -1,6 +1,8 @@
 # gdfile
 ### Google Drive download file
 
+**Require:** > python3
+
 **Dependecies:**
 
 > pip install beautifulsoup4 requests optparse-pretty
