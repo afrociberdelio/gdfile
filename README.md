@@ -1,7 +1,7 @@
 # gdfile
 ### Google Drive download file
 
-**Require:** python3
+**Required:** python3
 
 **Dependecies:**
 
