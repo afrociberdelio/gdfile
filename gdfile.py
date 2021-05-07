@@ -8,7 +8,7 @@ parser = OptionParser()
 parser.add_option("-u", "--url", dest="url_id",
                 help="Google Drive URL")
 parser.add_option("-o", "--output", dest="output_file",
-                help="Filename")
+                help="Output filename")
 
 (options, args) = parser.parse_args()
 
