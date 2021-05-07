@@ -1,5 +1,4 @@
 import requests
-import sys
 from optparse import OptionParser
 from bs4 import BeautifulSoup
 
