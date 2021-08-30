@@ -14,7 +14,7 @@ parser.add_option("-o", "--output", dest="output_file",
 (options, args) = parser.parse_args()
 
 if (options.url_id == None):
-    parser.error("-u url google file is required")
+    parser.error("-u url google drive is required")
 if (options.output_file == None):
     parser.error("-o output filename is required")
 
