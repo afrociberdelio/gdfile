@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 from optparse import OptionParser
 from bs4 import BeautifulSoup
@@ -12,7 +14,7 @@ parser.add_option("-o", "--output", dest="output_file",
 (options, args) = parser.parse_args()
 
 if (options.url_id == None):
-    parser.error("-u url google frive is required")
+    parser.error("-u url google file is required")
 if (options.output_file == None):
     parser.error("-o output filename is required")
 
